@@ -3,9 +3,9 @@
 # Deploy with `firebase deploy`
 
 from firebase_functions import https_fn, firestore_fn
-# from firebase_admin import initialize_app, credentials, firestore,Event,DocumentSnapshot
 from firebase_admin import initialize_app, credentials, firestore
 from google.cloud.firestore import DocumentSnapshot
+import datetime
 
 initialize_app(
     credentials.ApplicationDefault(),  # Uses credentials from firebase login
@@ -29,8 +29,29 @@ def on_shift_created(event:firestore_fn.Event[DocumentSnapshot]):
     print("New Shift Document Added:")
     print(new_value)
 
-    # Check if the 'duration' field exists
-    if "endTime" in new_value:
-        return f"Shift duration: {new_value["endTime"]} hours"
+    # Extract fields from the document data
+    start_time = new_value.get("startTime")
+    end_time = new_value.get("endTime")
+
+    # Convert `DatetimeWithNanoseconds` to `datetime` if they exist
+    if start_time:
+        if isinstance(start_time, datetime.datetime):
+            print(f"Start Time: {start_time.isoformat()}")
+        else:
+            print("Start Time is not a valid datetime.")
     else:
-        return "No duration field found in this shift entry."
+        print("No start time found.")
+
+    if end_time:
+        if isinstance(end_time, datetime.datetime):
+            print(f"End Time: {end_time.isoformat()}")
+        else:
+            print("End Time is not a valid datetime.")
+    else:
+        print("No end time found.")
+
+    # Return a response (if applicable, e.g., for logging or further processing)
+    if start_time and end_time:
+        return f"Shift from {start_time.isoformat()} to {end_time.isoformat()}."
+    else:
+        return "Incomplete shift information."
