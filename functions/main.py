@@ -29,7 +29,7 @@ class EmailSender:
             raise ValueError("SendGrid API key is required")
         self.sender = sendgrid_email.value  # Replace with your verified sender
 
-    def get_shift_email_template(self, shift_data, shift_id, user_id, employee):
+    def get_shift_email_template(self, shift_data, shift_id, user_id, employee: dict):
         """
         Generate HTML email template for shift notification using DailyPay design
 
@@ -70,7 +70,7 @@ class EmailSender:
                         <tr>
                             <td style="padding: 40px;">
                                 <p style="margin: 0 0 20px; font-size: 16px; line-height: 1.5; color: #333;">
-                                    Hello {employee.get('fullName', '').split(' ')[0]},
+                                    Hello {employee["fullName"].split(' ')[0]},
                                 </p>
                                 <p style="margin: 0 0 24px; font-size: 16px; line-height: 1.5; color: #333;">
                                     There's an opportunity to earn some extra income today - see below for details.
@@ -217,7 +217,7 @@ def on_shift_createdv2(event: firestore_fn.Event[DocumentSnapshot | None]):
 
             subject = "New Shift Available - Perfect Match!"
             email_sent = email_sender.send_email(
-                f"{receiver_mail_start}+{user_id}@{receiver_domain}",
+                f"{receiver_mail_start.value}+{user_id}@{receiver_domain.value}",
                 subject,
                 html_content,
             )
