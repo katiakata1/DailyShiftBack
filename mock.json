@@ -1,0 +1,2919 @@
+{
+  "eligibleEmployees": [
+    {
+      "employee": {
+        "uuid": "f5vm723o58c",
+        "fullName": "Chris Wilson",
+        "phoneNumber": "+1-555-657726",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 8474,
+          "currentAmountDollars": 264
+        }
+      ],
+      "dailyPayAvailableBalance": 81.82,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 10,
+      "averageAdvanceAmount": 127.42,
+      "opportunityAcceptanceRatio": 0.4,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 3
+    },
+    {
+      "employee": {
+        "uuid": "un0d1ddzwnn",
+        "fullName": "Jordan Lee",
+        "phoneNumber": "+1-555-694981",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 8410,
+          "currentAmountDollars": 4563
+        }
+      ],
+      "dailyPayAvailableBalance": 156.41,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 22,
+      "averageAdvanceAmount": 108.22,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 10
+    },
+    {
+      "employee": {
+        "uuid": "6fs4pcz7d7r",
+        "fullName": "Morgan Doe",
+        "phoneNumber": "+1-555-882271",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 8497,
+          "currentAmountDollars": 474
+        },
+        {
+          "goalName": "Vacation",
+          "targetAmountDollars": 1268,
+          "currentAmountDollars": 1687
+        }
+      ],
+      "dailyPayAvailableBalance": 160.74,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 20,
+      "averageAdvanceAmount": 193.56,
+      "opportunityAcceptanceRatio": 0.36,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 19
+    },
+    {
+      "employee": {
+        "uuid": "uff1zl7uele",
+        "fullName": "John Evans",
+        "phoneNumber": "+1-555-878394",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 5429,
+          "currentAmountDollars": 6925
+        }
+      ],
+      "dailyPayAvailableBalance": 196.84,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 4,
+      "averageAdvanceAmount": 101.25,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 10,
+      "currentLocationInMilesAway": 1
+    },
+    {
+      "employee": {
+        "uuid": "y4rippxg6sh",
+        "fullName": "Taylor Evans",
+        "phoneNumber": "+1-555-189620",
+        "role": "Cashier"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 5277,
+          "currentAmountDollars": 3616
+        },
+        {
+          "goalName": "Vacation",
+          "targetAmountDollars": 5318,
+          "currentAmountDollars": 6919
+        },
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 2550,
+          "currentAmountDollars": 459
+        }
+      ],
+      "dailyPayAvailableBalance": 172.3,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 1,
+      "averageAdvanceAmount": 120.9,
+      "opportunityAcceptanceRatio": 0.48,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 6
+    },
+    {
+      "employee": {
+        "uuid": "nni0o2xeji",
+        "fullName": "John Taylor",
+        "phoneNumber": "+1-555-361806",
+        "role": "Telemarketer"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 6131,
+          "currentAmountDollars": 104
+        }
+      ],
+      "dailyPayAvailableBalance": 70.93,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 29,
+      "averageAdvanceAmount": 128.51,
+      "opportunityAcceptanceRatio": 0.34,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 17
+    },
+    {
+      "employee": {
+        "uuid": "ua85kal769m",
+        "fullName": "Taylor Taylor",
+        "phoneNumber": "+1-555-692894",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 5651,
+          "currentAmountDollars": 6521
+        },
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 4814,
+          "currentAmountDollars": 4024
+        }
+      ],
+      "dailyPayAvailableBalance": 147.15,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 20,
+      "averageAdvanceAmount": 131.14,
+      "opportunityAcceptanceRatio": 0.36,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 29
+    },
+    {
+      "employee": {
+        "uuid": "780tyep6w5s",
+        "fullName": "Skyler Smith",
+        "phoneNumber": "+1-555-701179",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 6002,
+          "currentAmountDollars": 1796
+        },
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 9942,
+          "currentAmountDollars": 1288
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 1059,
+          "currentAmountDollars": 1220
+        }
+      ],
+      "dailyPayAvailableBalance": 60.23,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 4,
+      "averageAdvanceAmount": 125.51,
+      "opportunityAcceptanceRatio": 0.43,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 14
+    },
+    {
+      "employee": {
+        "uuid": "zgkjw8agzzk",
+        "fullName": "Skyler Lee",
+        "phoneNumber": "+1-555-710128",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 8624,
+          "currentAmountDollars": 1591
+        }
+      ],
+      "dailyPayAvailableBalance": 186.26,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 10,
+      "averageAdvanceAmount": 149.18,
+      "opportunityAcceptanceRatio": 0.39,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 12
+    },
+    {
+      "employee": {
+        "uuid": "yqnbel84vo",
+        "fullName": "Jane Miller",
+        "phoneNumber": "+1-555-899535",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 4167,
+          "currentAmountDollars": 2066
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 2665,
+          "currentAmountDollars": 1279
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 7264,
+          "currentAmountDollars": 2236
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 2197,
+          "currentAmountDollars": 6907
+        }
+      ],
+      "dailyPayAvailableBalance": 198.11,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 26,
+      "averageAdvanceAmount": 127.96,
+      "opportunityAcceptanceRatio": 0.3,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 21
+    },
+    {
+      "employee": {
+        "uuid": "ae6nh6ksc4a",
+        "fullName": "John Taylor",
+        "phoneNumber": "+1-555-373766",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 8831,
+          "currentAmountDollars": 4687
+        },
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 8954,
+          "currentAmountDollars": 1397
+        },
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 7193,
+          "currentAmountDollars": 1000
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 3024,
+          "currentAmountDollars": 2186
+        }
+      ],
+      "dailyPayAvailableBalance": 163.52,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 25,
+      "averageAdvanceAmount": 164.79,
+      "opportunityAcceptanceRatio": 0.42,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 17
+    },
+    {
+      "employee": {
+        "uuid": "7u6yn9b3al9",
+        "fullName": "Taylor Wilson",
+        "phoneNumber": "+1-555-665199",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 4524,
+          "currentAmountDollars": 123
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 6447,
+          "currentAmountDollars": 3296
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 8637,
+          "currentAmountDollars": 7987
+        },
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 8494,
+          "currentAmountDollars": 4593
+        }
+      ],
+      "dailyPayAvailableBalance": 145.04,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 21,
+      "averageAdvanceAmount": 131.43,
+      "opportunityAcceptanceRatio": 0.47,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 6
+    },
+    {
+      "employee": {
+        "uuid": "wqwnga4k9he",
+        "fullName": "Taylor Doe",
+        "phoneNumber": "+1-555-115317",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 1560,
+          "currentAmountDollars": 665
+        }
+      ],
+      "dailyPayAvailableBalance": 97.77,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 11,
+      "averageAdvanceAmount": 164.99,
+      "opportunityAcceptanceRatio": 0.38,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 9
+    },
+    {
+      "employee": {
+        "uuid": "j1juhoef90k",
+        "fullName": "Skyler Moore",
+        "phoneNumber": "+1-555-801445",
+        "role": "Cashier"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 8468,
+          "currentAmountDollars": 876
+        },
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 7821,
+          "currentAmountDollars": 3149
+        }
+      ],
+      "dailyPayAvailableBalance": 60.25,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 12,
+      "averageAdvanceAmount": 100.8,
+      "opportunityAcceptanceRatio": 0.42,
+      "hoursWorkedWithinPastWeek": 17,
+      "currentLocationInMilesAway": 17
+    },
+    {
+      "employee": {
+        "uuid": "6row15446l7",
+        "fullName": "John Taylor",
+        "phoneNumber": "+1-555-829799",
+        "role": "Telemarketer"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 8369,
+          "currentAmountDollars": 333
+        },
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 6957,
+          "currentAmountDollars": 3551
+        }
+      ],
+      "dailyPayAvailableBalance": 160.25,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 22,
+      "averageAdvanceAmount": 105.27,
+      "opportunityAcceptanceRatio": 0.36,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 25
+    },
+    {
+      "employee": {
+        "uuid": "20cnk3nlarci",
+        "fullName": "Chris Doe",
+        "phoneNumber": "+1-555-524640",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 9708,
+          "currentAmountDollars": 1289
+        },
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 3950,
+          "currentAmountDollars": 4558
+        }
+      ],
+      "dailyPayAvailableBalance": 67.77,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 28,
+      "averageAdvanceAmount": 171.33,
+      "opportunityAcceptanceRatio": 0.43,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 5
+    },
+    {
+      "employee": {
+        "uuid": "xvib1436y5",
+        "fullName": "Alex Evans",
+        "phoneNumber": "+1-555-366106",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 7060,
+          "currentAmountDollars": 8422
+        }
+      ],
+      "dailyPayAvailableBalance": 95.99,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 19,
+      "averageAdvanceAmount": 198.57,
+      "opportunityAcceptanceRatio": 0.42,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 9
+    },
+    {
+      "employee": {
+        "uuid": "lkxv6nh914d",
+        "fullName": "Skyler Wilson",
+        "phoneNumber": "+1-555-412100",
+        "role": "Food Service Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 5149,
+          "currentAmountDollars": 5059
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 9416,
+          "currentAmountDollars": 653
+        }
+      ],
+      "dailyPayAvailableBalance": 157.94,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 14,
+      "averageAdvanceAmount": 155.65,
+      "opportunityAcceptanceRatio": 0.47,
+      "hoursWorkedWithinPastWeek": 10,
+      "currentLocationInMilesAway": 8
+    },
+    {
+      "employee": {
+        "uuid": "ngrqt8a7je",
+        "fullName": "Alex Wilson",
+        "phoneNumber": "+1-555-418332",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 8902,
+          "currentAmountDollars": 1386
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 4410,
+          "currentAmountDollars": 2548
+        }
+      ],
+      "dailyPayAvailableBalance": 187.18,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 29,
+      "averageAdvanceAmount": 128.06,
+      "opportunityAcceptanceRatio": 0.38,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 14
+    },
+    {
+      "employee": {
+        "uuid": "txci6cvxu5c",
+        "fullName": "Pat Brown",
+        "phoneNumber": "+1-555-548482",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 9384,
+          "currentAmountDollars": 6178
+        },
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 4551,
+          "currentAmountDollars": 1768
+        },
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 2947,
+          "currentAmountDollars": 1104
+        }
+      ],
+      "dailyPayAvailableBalance": 181,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 17,
+      "averageAdvanceAmount": 193.01,
+      "opportunityAcceptanceRatio": 0.41,
+      "hoursWorkedWithinPastWeek": 11,
+      "currentLocationInMilesAway": 29
+    },
+    {
+      "employee": {
+        "uuid": "qke99sav95",
+        "fullName": "Alex Miller",
+        "phoneNumber": "+1-555-489503",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 3336,
+          "currentAmountDollars": 645
+        },
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 7688,
+          "currentAmountDollars": 2773
+        },
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 6906,
+          "currentAmountDollars": 3721
+        }
+      ],
+      "dailyPayAvailableBalance": 133.62,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 9,
+      "averageAdvanceAmount": 159.07,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 13
+    },
+    {
+      "employee": {
+        "uuid": "yg8ebbilj9",
+        "fullName": "Samantha Taylor",
+        "phoneNumber": "+1-555-492992",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 9063,
+          "currentAmountDollars": 620
+        },
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 2687,
+          "currentAmountDollars": 750
+        }
+      ],
+      "dailyPayAvailableBalance": 191.86,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 5,
+      "averageAdvanceAmount": 107.39,
+      "opportunityAcceptanceRatio": 0.43,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 25
+    },
+    {
+      "employee": {
+        "uuid": "i6c1dyjlc7",
+        "fullName": "Samantha Doe",
+        "phoneNumber": "+1-555-275056",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 2494,
+          "currentAmountDollars": 215
+        },
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 2732,
+          "currentAmountDollars": 5752
+        },
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 7048,
+          "currentAmountDollars": 1726
+        },
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 9490,
+          "currentAmountDollars": 2899
+        }
+      ],
+      "dailyPayAvailableBalance": 100.98,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 16,
+      "averageAdvanceAmount": 152.72,
+      "opportunityAcceptanceRatio": 0.39,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 4
+    },
+    {
+      "employee": {
+        "uuid": "lbo5yk2tv8q",
+        "fullName": "Jordan Wilson",
+        "phoneNumber": "+1-555-118026",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 1627,
+          "currentAmountDollars": 322
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 5828,
+          "currentAmountDollars": 7143
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 7164,
+          "currentAmountDollars": 2991
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 3983,
+          "currentAmountDollars": 1636
+        }
+      ],
+      "dailyPayAvailableBalance": 139,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 7,
+      "averageAdvanceAmount": 122.6,
+      "opportunityAcceptanceRatio": 0.33,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 25
+    },
+    {
+      "employee": {
+        "uuid": "t2qq58vg0xg",
+        "fullName": "Morgan Wilson",
+        "phoneNumber": "+1-555-136262",
+        "role": "Food Service Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Vacation",
+          "targetAmountDollars": 6966,
+          "currentAmountDollars": 410
+        },
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 2535,
+          "currentAmountDollars": 287
+        },
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 4212,
+          "currentAmountDollars": 3419
+        },
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 1293,
+          "currentAmountDollars": 2687
+        }
+      ],
+      "dailyPayAvailableBalance": 150.61,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 26,
+      "averageAdvanceAmount": 133.01,
+      "opportunityAcceptanceRatio": 0.47,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 13
+    },
+    {
+      "employee": {
+        "uuid": "83306prgz1a",
+        "fullName": "Jordan Johnson",
+        "phoneNumber": "+1-555-367127",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 7520,
+          "currentAmountDollars": 1360
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 4849,
+          "currentAmountDollars": 2499
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 3324,
+          "currentAmountDollars": 5558
+        }
+      ],
+      "dailyPayAvailableBalance": 126.6,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 11,
+      "averageAdvanceAmount": 192.53,
+      "opportunityAcceptanceRatio": 0.43,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 25
+    },
+    {
+      "employee": {
+        "uuid": "sc5l9jcj8yj",
+        "fullName": "Skyler Wilson",
+        "phoneNumber": "+1-555-586301",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 9541,
+          "currentAmountDollars": 1726
+        }
+      ],
+      "dailyPayAvailableBalance": 84,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 19,
+      "averageAdvanceAmount": 165.6,
+      "opportunityAcceptanceRatio": 0.31,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 15
+    },
+    {
+      "employee": {
+        "uuid": "fwzx2uah7ir",
+        "fullName": "Pat Doe",
+        "phoneNumber": "+1-555-560370",
+        "role": "Cashier"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 4572,
+          "currentAmountDollars": 72
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 2827,
+          "currentAmountDollars": 1820
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 4206,
+          "currentAmountDollars": 4308
+        }
+      ],
+      "dailyPayAvailableBalance": 69.24,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 12,
+      "averageAdvanceAmount": 121.68,
+      "opportunityAcceptanceRatio": 0.33,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 19
+    },
+    {
+      "employee": {
+        "uuid": "4jhgq5er08o",
+        "fullName": "John Moore",
+        "phoneNumber": "+1-555-138554",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 4919,
+          "currentAmountDollars": 1617
+        },
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 5564,
+          "currentAmountDollars": 667
+        }
+      ],
+      "dailyPayAvailableBalance": 63.81,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 3,
+      "averageAdvanceAmount": 154.83,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 21
+    },
+    {
+      "employee": {
+        "uuid": "jf6h0eyqkt",
+        "fullName": "Jane Taylor",
+        "phoneNumber": "+1-555-311438",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 7671,
+          "currentAmountDollars": 2417
+        },
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 5971,
+          "currentAmountDollars": 1111
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 5790,
+          "currentAmountDollars": 3120
+        },
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 2354,
+          "currentAmountDollars": 2869
+        }
+      ],
+      "dailyPayAvailableBalance": 110.29,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 6,
+      "averageAdvanceAmount": 162.85,
+      "opportunityAcceptanceRatio": 0.3,
+      "hoursWorkedWithinPastWeek": 17,
+      "currentLocationInMilesAway": 2
+    },
+    {
+      "employee": {
+        "uuid": "96aqxbt0q2o",
+        "fullName": "Samantha Johnson",
+        "phoneNumber": "+1-555-125115",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 6302,
+          "currentAmountDollars": 215
+        },
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 6266,
+          "currentAmountDollars": 913
+        }
+      ],
+      "dailyPayAvailableBalance": 116.86,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 22,
+      "averageAdvanceAmount": 105.18,
+      "opportunityAcceptanceRatio": 0.48,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 2
+    },
+    {
+      "employee": {
+        "uuid": "22oha4zpu36",
+        "fullName": "Samantha Evans",
+        "phoneNumber": "+1-555-743299",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 3117,
+          "currentAmountDollars": 3798
+        }
+      ],
+      "dailyPayAvailableBalance": 126.02,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 16,
+      "averageAdvanceAmount": 166.72,
+      "opportunityAcceptanceRatio": 0.4,
+      "hoursWorkedWithinPastWeek": 10,
+      "currentLocationInMilesAway": 16
+    },
+    {
+      "employee": {
+        "uuid": "hz1osuonr6k",
+        "fullName": "Jane Lee",
+        "phoneNumber": "+1-555-630981",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 9271,
+          "currentAmountDollars": 1115
+        },
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 9689,
+          "currentAmountDollars": 3542
+        }
+      ],
+      "dailyPayAvailableBalance": 148.75,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 1,
+      "averageAdvanceAmount": 177.38,
+      "opportunityAcceptanceRatio": 0.5,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 22
+    },
+    {
+      "employee": {
+        "uuid": "jgdi1po97c9",
+        "fullName": "Chris Johnson",
+        "phoneNumber": "+1-555-677702",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 8220,
+          "currentAmountDollars": 1930
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 8228,
+          "currentAmountDollars": 2811
+        }
+      ],
+      "dailyPayAvailableBalance": 107.3,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 12,
+      "averageAdvanceAmount": 151.09,
+      "opportunityAcceptanceRatio": 0.36,
+      "hoursWorkedWithinPastWeek": 11,
+      "currentLocationInMilesAway": 10
+    },
+    {
+      "employee": {
+        "uuid": "6htogkqn363",
+        "fullName": "Alex Brown",
+        "phoneNumber": "+1-555-662265",
+        "role": "Housekeeper"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 2464,
+          "currentAmountDollars": 508
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 3950,
+          "currentAmountDollars": 1692
+        },
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 9108,
+          "currentAmountDollars": 7714
+        }
+      ],
+      "dailyPayAvailableBalance": 94.53,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 19,
+      "averageAdvanceAmount": 148.61,
+      "opportunityAcceptanceRatio": 0.43,
+      "hoursWorkedWithinPastWeek": 11,
+      "currentLocationInMilesAway": 14
+    },
+    {
+      "employee": {
+        "uuid": "venmuzxvj2",
+        "fullName": "Taylor Wilson",
+        "phoneNumber": "+1-555-592577",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 2327,
+          "currentAmountDollars": 6616
+        },
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 5100,
+          "currentAmountDollars": 3546
+        },
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 7424,
+          "currentAmountDollars": 942
+        }
+      ],
+      "dailyPayAvailableBalance": 135.46,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 14,
+      "averageAdvanceAmount": 141.88,
+      "opportunityAcceptanceRatio": 0.45,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 16
+    },
+    {
+      "employee": {
+        "uuid": "xo7cv70geq",
+        "fullName": "Jane Lee",
+        "phoneNumber": "+1-555-526000",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 4704,
+          "currentAmountDollars": 482
+        },
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 5296,
+          "currentAmountDollars": 4978
+        }
+      ],
+      "dailyPayAvailableBalance": 75.65,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 26,
+      "averageAdvanceAmount": 198.54,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 11,
+      "currentLocationInMilesAway": 14
+    },
+    {
+      "employee": {
+        "uuid": "m4amxqyjqz",
+        "fullName": "Morgan Smith",
+        "phoneNumber": "+1-555-454933",
+        "role": "Housekeeper"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 9658,
+          "currentAmountDollars": 137
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 5381,
+          "currentAmountDollars": 812
+        },
+        {
+          "goalName": "Self-Development",
+          "targetAmountDollars": 8446,
+          "currentAmountDollars": 2135
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 5160,
+          "currentAmountDollars": 159
+        }
+      ],
+      "dailyPayAvailableBalance": 101.52,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 16,
+      "averageAdvanceAmount": 145.57,
+      "opportunityAcceptanceRatio": 0.43,
+      "hoursWorkedWithinPastWeek": 17,
+      "currentLocationInMilesAway": 7
+    },
+    {
+      "employee": {
+        "uuid": "5sijbloo0ff",
+        "fullName": "Jane Brown",
+        "phoneNumber": "+1-555-626097",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 6349,
+          "currentAmountDollars": 886
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 2306,
+          "currentAmountDollars": 6065
+        }
+      ],
+      "dailyPayAvailableBalance": 113.62,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 17,
+      "averageAdvanceAmount": 108.86,
+      "opportunityAcceptanceRatio": 0.42,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 2
+    },
+    {
+      "employee": {
+        "uuid": "3urryiakw7j",
+        "fullName": "Jordan Moore",
+        "phoneNumber": "+1-555-562518",
+        "role": "Cashier"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 6044,
+          "currentAmountDollars": 4839
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 7668,
+          "currentAmountDollars": 2213
+        }
+      ],
+      "dailyPayAvailableBalance": 154.63,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 24,
+      "averageAdvanceAmount": 178.59,
+      "opportunityAcceptanceRatio": 0.39,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 13
+    },
+    {
+      "employee": {
+        "uuid": "8avwifiucm2",
+        "fullName": "Jane Moore",
+        "phoneNumber": "+1-555-670484",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 4131,
+          "currentAmountDollars": 111
+        },
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 7817,
+          "currentAmountDollars": 799
+        },
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 4282,
+          "currentAmountDollars": 6752
+        }
+      ],
+      "dailyPayAvailableBalance": 79.92,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 17,
+      "averageAdvanceAmount": 185.55,
+      "opportunityAcceptanceRatio": 0.4,
+      "hoursWorkedWithinPastWeek": 11,
+      "currentLocationInMilesAway": 26
+    },
+    {
+      "employee": {
+        "uuid": "ujdw7mt9xql",
+        "fullName": "Samantha Moore",
+        "phoneNumber": "+1-555-737435",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 4339,
+          "currentAmountDollars": 2057
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 3320,
+          "currentAmountDollars": 624
+        },
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 7647,
+          "currentAmountDollars": 1228
+        }
+      ],
+      "dailyPayAvailableBalance": 169.33,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 23,
+      "averageAdvanceAmount": 189.35,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 4
+    },
+    {
+      "employee": {
+        "uuid": "zf9a0egu41f",
+        "fullName": "Chris Johnson",
+        "phoneNumber": "+1-555-595907",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Self-Development",
+          "targetAmountDollars": 3380,
+          "currentAmountDollars": 2090
+        }
+      ],
+      "dailyPayAvailableBalance": 163.38,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 1,
+      "averageAdvanceAmount": 163.3,
+      "opportunityAcceptanceRatio": 0.37,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 16
+    },
+    {
+      "employee": {
+        "uuid": "dxfpg5597td",
+        "fullName": "Chris Lee",
+        "phoneNumber": "+1-555-343415",
+        "role": "Housekeeper"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 4283,
+          "currentAmountDollars": 6095
+        }
+      ],
+      "dailyPayAvailableBalance": 77.67,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 14,
+      "averageAdvanceAmount": 139.57,
+      "opportunityAcceptanceRatio": 0.45,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 3
+    },
+    {
+      "employee": {
+        "uuid": "pp7gjwbv0z",
+        "fullName": "Alex Miller",
+        "phoneNumber": "+1-555-438401",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 2084,
+          "currentAmountDollars": 277
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 6764,
+          "currentAmountDollars": 229
+        },
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 6745,
+          "currentAmountDollars": 1327
+        },
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 8033,
+          "currentAmountDollars": 1098
+        }
+      ],
+      "dailyPayAvailableBalance": 124.72,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 1,
+      "averageAdvanceAmount": 172.66,
+      "opportunityAcceptanceRatio": 0.34,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 17
+    },
+    {
+      "employee": {
+        "uuid": "kclqmm2haw",
+        "fullName": "John Miller",
+        "phoneNumber": "+1-555-530871",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Self-Development",
+          "targetAmountDollars": 3227,
+          "currentAmountDollars": 4475
+        }
+      ],
+      "dailyPayAvailableBalance": 187.75,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 15,
+      "averageAdvanceAmount": 141.67,
+      "opportunityAcceptanceRatio": 0.5,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 12
+    },
+    {
+      "employee": {
+        "uuid": "omp7temgygl",
+        "fullName": "Samantha Moore",
+        "phoneNumber": "+1-555-207181",
+        "role": "Food Service Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 8616,
+          "currentAmountDollars": 3065
+        },
+        {
+          "goalName": "Vacation",
+          "targetAmountDollars": 9693,
+          "currentAmountDollars": 1415
+        },
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 9279,
+          "currentAmountDollars": 6136
+        },
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 9259,
+          "currentAmountDollars": 4209
+        }
+      ],
+      "dailyPayAvailableBalance": 71.98,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 18,
+      "averageAdvanceAmount": 138.94,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 11
+    },
+    {
+      "employee": {
+        "uuid": "8ajg24qrddc",
+        "fullName": "Jane Doe",
+        "phoneNumber": "+1-555-314133",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 8000,
+          "currentAmountDollars": 3055
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 6132,
+          "currentAmountDollars": 1572
+        }
+      ],
+      "dailyPayAvailableBalance": 143.62,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 1,
+      "averageAdvanceAmount": 175.03,
+      "opportunityAcceptanceRatio": 0.33,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 5
+    },
+    {
+      "employee": {
+        "uuid": "h9q3813fddr",
+        "fullName": "Chris Wilson",
+        "phoneNumber": "+1-555-419216",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 8501,
+          "currentAmountDollars": 588
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 8573,
+          "currentAmountDollars": 6415
+        },
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 6235,
+          "currentAmountDollars": 1283
+        },
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 4618,
+          "currentAmountDollars": 2626
+        }
+      ],
+      "dailyPayAvailableBalance": 141.3,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 13,
+      "averageAdvanceAmount": 113.17,
+      "opportunityAcceptanceRatio": 0.38,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 28
+    },
+    {
+      "employee": {
+        "uuid": "v8mu09iah8",
+        "fullName": "Alex Wilson",
+        "phoneNumber": "+1-555-238252",
+        "role": "Cashier"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Self-Development",
+          "targetAmountDollars": 8820,
+          "currentAmountDollars": 3160
+        },
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 7381,
+          "currentAmountDollars": 2372
+        }
+      ],
+      "dailyPayAvailableBalance": 71.57,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 2,
+      "averageAdvanceAmount": 121.19,
+      "opportunityAcceptanceRatio": 0.38,
+      "hoursWorkedWithinPastWeek": 17,
+      "currentLocationInMilesAway": 14
+    },
+    {
+      "employee": {
+        "uuid": "7jgewiwohk9",
+        "fullName": "Pat Doe",
+        "phoneNumber": "+1-555-819392",
+        "role": "Food Service Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 4991,
+          "currentAmountDollars": 431
+        },
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 5772,
+          "currentAmountDollars": 2467
+        }
+      ],
+      "dailyPayAvailableBalance": 111,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 23,
+      "averageAdvanceAmount": 186.79,
+      "opportunityAcceptanceRatio": 0.37,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 20
+    },
+    {
+      "employee": {
+        "uuid": "2fg1snh8bf9",
+        "fullName": "Skyler Johnson",
+        "phoneNumber": "+1-555-580105",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 7637,
+          "currentAmountDollars": 3031
+        },
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 1436,
+          "currentAmountDollars": 2241
+        },
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 4092,
+          "currentAmountDollars": 1844
+        }
+      ],
+      "dailyPayAvailableBalance": 77.96,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 5,
+      "averageAdvanceAmount": 144.25,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 17,
+      "currentLocationInMilesAway": 19
+    },
+    {
+      "employee": {
+        "uuid": "7dk9m0ye8xs",
+        "fullName": "Pat Johnson",
+        "phoneNumber": "+1-555-395413",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 1104,
+          "currentAmountDollars": 2508
+        }
+      ],
+      "dailyPayAvailableBalance": 109.93,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 20,
+      "averageAdvanceAmount": 192.51,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 8
+    },
+    {
+      "employee": {
+        "uuid": "9y732iz18wh",
+        "fullName": "Skyler Doe",
+        "phoneNumber": "+1-555-546051",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 1962,
+          "currentAmountDollars": 5217
+        },
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 8938,
+          "currentAmountDollars": 6017
+        },
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 6981,
+          "currentAmountDollars": 6461
+        }
+      ],
+      "dailyPayAvailableBalance": 184.79,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 12,
+      "averageAdvanceAmount": 136.25,
+      "opportunityAcceptanceRatio": 0.4,
+      "hoursWorkedWithinPastWeek": 11,
+      "currentLocationInMilesAway": 6
+    },
+    {
+      "employee": {
+        "uuid": "hwf6o3qh0n7",
+        "fullName": "Taylor Brown",
+        "phoneNumber": "+1-555-695008",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 9588,
+          "currentAmountDollars": 2224
+        },
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 8276,
+          "currentAmountDollars": 4876
+        },
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 6418,
+          "currentAmountDollars": 5784
+        },
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 1777,
+          "currentAmountDollars": 1019
+        }
+      ],
+      "dailyPayAvailableBalance": 168.1,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 23,
+      "averageAdvanceAmount": 196.45,
+      "opportunityAcceptanceRatio": 0.45,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 22
+    },
+    {
+      "employee": {
+        "uuid": "ebvfsmjkzun",
+        "fullName": "Pat Lee",
+        "phoneNumber": "+1-555-301530",
+        "role": "Cashier"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 7305,
+          "currentAmountDollars": 597
+        },
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 2833,
+          "currentAmountDollars": 2028
+        },
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 9311,
+          "currentAmountDollars": 184
+        }
+      ],
+      "dailyPayAvailableBalance": 134.38,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 15,
+      "averageAdvanceAmount": 143.98,
+      "opportunityAcceptanceRatio": 0.42,
+      "hoursWorkedWithinPastWeek": 10,
+      "currentLocationInMilesAway": 26
+    },
+    {
+      "employee": {
+        "uuid": "qlape5zw1oc",
+        "fullName": "Morgan Smith",
+        "phoneNumber": "+1-555-460431",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 9236,
+          "currentAmountDollars": 3287
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 1771,
+          "currentAmountDollars": 1507
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 5756,
+          "currentAmountDollars": 5946
+        }
+      ],
+      "dailyPayAvailableBalance": 104.47,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 3,
+      "averageAdvanceAmount": 139.97,
+      "opportunityAcceptanceRatio": 0.45,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 17
+    },
+    {
+      "employee": {
+        "uuid": "tvgls1q7k4n",
+        "fullName": "Samantha Smith",
+        "phoneNumber": "+1-555-762035",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 6081,
+          "currentAmountDollars": 399
+        },
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 7073,
+          "currentAmountDollars": 2126
+        }
+      ],
+      "dailyPayAvailableBalance": 61.02,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 17,
+      "averageAdvanceAmount": 135.98,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 11
+    },
+    {
+      "employee": {
+        "uuid": "em7y1vth0jb",
+        "fullName": "Jordan Evans",
+        "phoneNumber": "+1-555-331573",
+        "role": "Food Service Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 2006,
+          "currentAmountDollars": 7790
+        },
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 8894,
+          "currentAmountDollars": 5438
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 6667,
+          "currentAmountDollars": 268
+        },
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 4278,
+          "currentAmountDollars": 198
+        }
+      ],
+      "dailyPayAvailableBalance": 179.26,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 16,
+      "averageAdvanceAmount": 153.26,
+      "opportunityAcceptanceRatio": 0.38,
+      "hoursWorkedWithinPastWeek": 17,
+      "currentLocationInMilesAway": 16
+    },
+    {
+      "employee": {
+        "uuid": "4q5sy2xvndw",
+        "fullName": "Chris Smith",
+        "phoneNumber": "+1-555-315666",
+        "role": "Housekeeper"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 7850,
+          "currentAmountDollars": 3582
+        },
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 4491,
+          "currentAmountDollars": 3779
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 1487,
+          "currentAmountDollars": 1120
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 6158,
+          "currentAmountDollars": 2278
+        }
+      ],
+      "dailyPayAvailableBalance": 71.41,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 5,
+      "averageAdvanceAmount": 124.18,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 19
+    },
+    {
+      "employee": {
+        "uuid": "wqk29jv4n3d",
+        "fullName": "Morgan Wilson",
+        "phoneNumber": "+1-555-252497",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 2173,
+          "currentAmountDollars": 6832
+        },
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 4792,
+          "currentAmountDollars": 307
+        },
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 2403,
+          "currentAmountDollars": 405
+        }
+      ],
+      "dailyPayAvailableBalance": 195.46,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 20,
+      "averageAdvanceAmount": 102.4,
+      "opportunityAcceptanceRatio": 0.49,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 21
+    },
+    {
+      "employee": {
+        "uuid": "cuag2zfs7sh",
+        "fullName": "Taylor Wilson",
+        "phoneNumber": "+1-555-879554",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 5633,
+          "currentAmountDollars": 3895
+        },
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 5311,
+          "currentAmountDollars": 3329
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 4551,
+          "currentAmountDollars": 1216
+        },
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 2187,
+          "currentAmountDollars": 2649
+        }
+      ],
+      "dailyPayAvailableBalance": 167.65,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 15,
+      "averageAdvanceAmount": 102.68,
+      "opportunityAcceptanceRatio": 0.42,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 1
+    },
+    {
+      "employee": {
+        "uuid": "urdrh0i2toe",
+        "fullName": "Morgan Lee",
+        "phoneNumber": "+1-555-562640",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 9914,
+          "currentAmountDollars": 706
+        },
+        {
+          "goalName": "Vacation",
+          "targetAmountDollars": 6820,
+          "currentAmountDollars": 2032
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 9249,
+          "currentAmountDollars": 2938
+        }
+      ],
+      "dailyPayAvailableBalance": 94.9,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 26,
+      "averageAdvanceAmount": 129.4,
+      "opportunityAcceptanceRatio": 0.49,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 26
+    },
+    {
+      "employee": {
+        "uuid": "824wma9dunf",
+        "fullName": "Alex Wilson",
+        "phoneNumber": "+1-555-176614",
+        "role": "Housekeeper"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 4484,
+          "currentAmountDollars": 7900
+        }
+      ],
+      "dailyPayAvailableBalance": 158.59,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 20,
+      "averageAdvanceAmount": 166.53,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 7
+    },
+    {
+      "employee": {
+        "uuid": "lptv5c3lwhh",
+        "fullName": "Alex Lee",
+        "phoneNumber": "+1-555-683022",
+        "role": "Cashier"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Self-Development",
+          "targetAmountDollars": 3755,
+          "currentAmountDollars": 2247
+        },
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 9665,
+          "currentAmountDollars": 1592
+        }
+      ],
+      "dailyPayAvailableBalance": 54.5,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 19,
+      "averageAdvanceAmount": 150.92,
+      "opportunityAcceptanceRatio": 0.37,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 25
+    },
+    {
+      "employee": {
+        "uuid": "rrmrafwpfg",
+        "fullName": "John Johnson",
+        "phoneNumber": "+1-555-689349",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 7091,
+          "currentAmountDollars": 391
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 6990,
+          "currentAmountDollars": 2089
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 3373,
+          "currentAmountDollars": 1096
+        }
+      ],
+      "dailyPayAvailableBalance": 105.14,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 27,
+      "averageAdvanceAmount": 189.78,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 25
+    },
+    {
+      "employee": {
+        "uuid": "724q67wqteo",
+        "fullName": "Jane Taylor",
+        "phoneNumber": "+1-555-704490",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 9972,
+          "currentAmountDollars": 4835
+        }
+      ],
+      "dailyPayAvailableBalance": 87.84,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 11,
+      "averageAdvanceAmount": 182.8,
+      "opportunityAcceptanceRatio": 0.49,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 24
+    },
+    {
+      "employee": {
+        "uuid": "z42zie8kh27",
+        "fullName": "Jane Wilson",
+        "phoneNumber": "+1-555-452505",
+        "role": "Telemarketer"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 5687,
+          "currentAmountDollars": 2121
+        },
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 4764,
+          "currentAmountDollars": 489
+        }
+      ],
+      "dailyPayAvailableBalance": 149.85,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 11,
+      "averageAdvanceAmount": 162.45,
+      "opportunityAcceptanceRatio": 0.31,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 17
+    },
+    {
+      "employee": {
+        "uuid": "ligjetg0s2d",
+        "fullName": "Alex Doe",
+        "phoneNumber": "+1-555-207452",
+        "role": "Food Service Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 9160,
+          "currentAmountDollars": 2855
+        },
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 2639,
+          "currentAmountDollars": 421
+        },
+        {
+          "goalName": "Gadget Purchase",
+          "targetAmountDollars": 5956,
+          "currentAmountDollars": 1546
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 8435,
+          "currentAmountDollars": 4940
+        }
+      ],
+      "dailyPayAvailableBalance": 133.38,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 9,
+      "averageAdvanceAmount": 158.76,
+      "opportunityAcceptanceRatio": 0.3,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 22
+    },
+    {
+      "employee": {
+        "uuid": "sdop22crgz",
+        "fullName": "John Lee",
+        "phoneNumber": "+1-555-357961",
+        "role": "Food Service Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 5951,
+          "currentAmountDollars": 3249
+        }
+      ],
+      "dailyPayAvailableBalance": 181.42,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 27,
+      "averageAdvanceAmount": 111.16,
+      "opportunityAcceptanceRatio": 0.47,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 22
+    },
+    {
+      "employee": {
+        "uuid": "z9s65zsae2",
+        "fullName": "Skyler Moore",
+        "phoneNumber": "+1-555-866516",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 7613,
+          "currentAmountDollars": 2077
+        },
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 1367,
+          "currentAmountDollars": 502
+        }
+      ],
+      "dailyPayAvailableBalance": 165.94,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 25,
+      "averageAdvanceAmount": 165.26,
+      "opportunityAcceptanceRatio": 0.31,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 6
+    },
+    {
+      "employee": {
+        "uuid": "1lynf5qyfpd",
+        "fullName": "Taylor Doe",
+        "phoneNumber": "+1-555-750017",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 6037,
+          "currentAmountDollars": 328
+        }
+      ],
+      "dailyPayAvailableBalance": 61.34,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 19,
+      "averageAdvanceAmount": 119.3,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 27
+    },
+    {
+      "employee": {
+        "uuid": "yo5eiv7i2d8",
+        "fullName": "Chris Doe",
+        "phoneNumber": "+1-555-714051",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 5228,
+          "currentAmountDollars": 1928
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 5597,
+          "currentAmountDollars": 5787
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 6196,
+          "currentAmountDollars": 1670
+        }
+      ],
+      "dailyPayAvailableBalance": 73.22,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 2,
+      "averageAdvanceAmount": 132.43,
+      "opportunityAcceptanceRatio": 0.48,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 8
+    },
+    {
+      "employee": {
+        "uuid": "qo8q2ka187",
+        "fullName": "Skyler Taylor",
+        "phoneNumber": "+1-555-723953",
+        "role": "Housekeeper"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 7108,
+          "currentAmountDollars": 4986
+        },
+        {
+          "goalName": "Self-Development",
+          "targetAmountDollars": 8575,
+          "currentAmountDollars": 3853
+        },
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 1492,
+          "currentAmountDollars": 3815
+        }
+      ],
+      "dailyPayAvailableBalance": 129.71,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 21,
+      "averageAdvanceAmount": 132.57,
+      "opportunityAcceptanceRatio": 0.3,
+      "hoursWorkedWithinPastWeek": 17,
+      "currentLocationInMilesAway": 11
+    },
+    {
+      "employee": {
+        "uuid": "hxrzjbzpdqs",
+        "fullName": "Morgan Lee",
+        "phoneNumber": "+1-555-305349",
+        "role": "Housekeeper"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 5094,
+          "currentAmountDollars": 6501
+        }
+      ],
+      "dailyPayAvailableBalance": 51.22,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 7,
+      "averageAdvanceAmount": 196.61,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 26
+    },
+    {
+      "employee": {
+        "uuid": "o09zxq8k0q",
+        "fullName": "John Evans",
+        "phoneNumber": "+1-555-305381",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 3200,
+          "currentAmountDollars": 1368
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 6166,
+          "currentAmountDollars": 1691
+        }
+      ],
+      "dailyPayAvailableBalance": 154.19,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 7,
+      "averageAdvanceAmount": 181.38,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 25
+    },
+    {
+      "employee": {
+        "uuid": "61730wmt5ol",
+        "fullName": "Pat Miller",
+        "phoneNumber": "+1-555-830514",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 8550,
+          "currentAmountDollars": 3037
+        },
+        {
+          "goalName": "Self-Development",
+          "targetAmountDollars": 5228,
+          "currentAmountDollars": 1162
+        }
+      ],
+      "dailyPayAvailableBalance": 115.03,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 19,
+      "averageAdvanceAmount": 184.25,
+      "opportunityAcceptanceRatio": 0.41,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 28
+    },
+    {
+      "employee": {
+        "uuid": "xhr6n9uh7uc",
+        "fullName": "Skyler Moore",
+        "phoneNumber": "+1-555-257125",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Vacation",
+          "targetAmountDollars": 6623,
+          "currentAmountDollars": 837
+        },
+        {
+          "goalName": "Vehicle Maintenance",
+          "targetAmountDollars": 6952,
+          "currentAmountDollars": 1771
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 2693,
+          "currentAmountDollars": 235
+        }
+      ],
+      "dailyPayAvailableBalance": 90.42,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 1,
+      "averageAdvanceAmount": 132.79,
+      "opportunityAcceptanceRatio": 0.4,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 27
+    },
+    {
+      "employee": {
+        "uuid": "ezrhjrljj9j",
+        "fullName": "Jordan Miller",
+        "phoneNumber": "+1-555-453566",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 4632,
+          "currentAmountDollars": 1348
+        }
+      ],
+      "dailyPayAvailableBalance": 120.69,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 8,
+      "averageAdvanceAmount": 181.17,
+      "opportunityAcceptanceRatio": 0.48,
+      "hoursWorkedWithinPastWeek": 10,
+      "currentLocationInMilesAway": 18
+    },
+    {
+      "employee": {
+        "uuid": "snbtzqoly2l",
+        "fullName": "Jane Lee",
+        "phoneNumber": "+1-555-858722",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 8993,
+          "currentAmountDollars": 567
+        },
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 1257,
+          "currentAmountDollars": 3312
+        },
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 3108,
+          "currentAmountDollars": 8496
+        }
+      ],
+      "dailyPayAvailableBalance": 182.66,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 14,
+      "averageAdvanceAmount": 159.47,
+      "opportunityAcceptanceRatio": 0.34,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 21
+    },
+    {
+      "employee": {
+        "uuid": "isbfixvex",
+        "fullName": "Jane Lee",
+        "phoneNumber": "+1-555-771211",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 8659,
+          "currentAmountDollars": 3348
+        }
+      ],
+      "dailyPayAvailableBalance": 168.83,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 29,
+      "averageAdvanceAmount": 146.36,
+      "opportunityAcceptanceRatio": 0.41,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 4
+    },
+    {
+      "employee": {
+        "uuid": "f11j1qe9vl6",
+        "fullName": "Jordan Brown",
+        "phoneNumber": "+1-555-740782",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 1360,
+          "currentAmountDollars": 2630
+        },
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 9740,
+          "currentAmountDollars": 2494
+        }
+      ],
+      "dailyPayAvailableBalance": 175.99,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 12,
+      "averageAdvanceAmount": 143.67,
+      "opportunityAcceptanceRatio": 0.3,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 23
+    },
+    {
+      "employee": {
+        "uuid": "vuik1jnypcj",
+        "fullName": "Chris Moore",
+        "phoneNumber": "+1-555-468705",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 7585,
+          "currentAmountDollars": 1620
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 9045,
+          "currentAmountDollars": 1311
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 9533,
+          "currentAmountDollars": 856
+        }
+      ],
+      "dailyPayAvailableBalance": 95.86,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 17,
+      "averageAdvanceAmount": 137.75,
+      "opportunityAcceptanceRatio": 0.5,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 13
+    },
+    {
+      "employee": {
+        "uuid": "xnpcx7pjwot",
+        "fullName": "Jane Evans",
+        "phoneNumber": "+1-555-807301",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 3882,
+          "currentAmountDollars": 1646
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 7239,
+          "currentAmountDollars": 2676
+        }
+      ],
+      "dailyPayAvailableBalance": 146.72,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 17,
+      "averageAdvanceAmount": 177.61,
+      "opportunityAcceptanceRatio": 0.33,
+      "hoursWorkedWithinPastWeek": 10,
+      "currentLocationInMilesAway": 26
+    },
+    {
+      "employee": {
+        "uuid": "npry26jbohd",
+        "fullName": "Jordan Taylor",
+        "phoneNumber": "+1-555-619615",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 7721,
+          "currentAmountDollars": 1389
+        },
+        {
+          "goalName": "Medical Expenses",
+          "targetAmountDollars": 8826,
+          "currentAmountDollars": 2901
+        },
+        {
+          "goalName": "Self-Development",
+          "targetAmountDollars": 1674,
+          "currentAmountDollars": 7344
+        }
+      ],
+      "dailyPayAvailableBalance": 113.29,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 12,
+      "averageAdvanceAmount": 156.77,
+      "opportunityAcceptanceRatio": 0.42,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 14
+    },
+    {
+      "employee": {
+        "uuid": "n20bnocj9am",
+        "fullName": "Chris Johnson",
+        "phoneNumber": "+1-555-723343",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 5206,
+          "currentAmountDollars": 411
+        }
+      ],
+      "dailyPayAvailableBalance": 196.43,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 29,
+      "averageAdvanceAmount": 154.16,
+      "opportunityAcceptanceRatio": 0.4,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 28
+    },
+    {
+      "employee": {
+        "uuid": "sqaz0a95x",
+        "fullName": "Pat Doe",
+        "phoneNumber": "+1-555-866258",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Vacation",
+          "targetAmountDollars": 9471,
+          "currentAmountDollars": 1304
+        },
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 5173,
+          "currentAmountDollars": 1628
+        }
+      ],
+      "dailyPayAvailableBalance": 73.72,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 13,
+      "averageAdvanceAmount": 179.71,
+      "opportunityAcceptanceRatio": 0.43,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 23
+    },
+    {
+      "employee": {
+        "uuid": "0rq4yb5f0ug",
+        "fullName": "Alex Wilson",
+        "phoneNumber": "+1-555-712648",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 1621,
+          "currentAmountDollars": 4945
+        },
+        {
+          "goalName": "Emergency Fund",
+          "targetAmountDollars": 7427,
+          "currentAmountDollars": 671
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 1958,
+          "currentAmountDollars": 3912
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 1717,
+          "currentAmountDollars": 1779
+        }
+      ],
+      "dailyPayAvailableBalance": 81,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 21,
+      "averageAdvanceAmount": 128.07,
+      "opportunityAcceptanceRatio": 0.4,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 6
+    },
+    {
+      "employee": {
+        "uuid": "47fvz66ecv4",
+        "fullName": "Chris Moore",
+        "phoneNumber": "+1-555-819353",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 1098,
+          "currentAmountDollars": 1283
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 1765,
+          "currentAmountDollars": 3589
+        },
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 5393,
+          "currentAmountDollars": 5072
+        },
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 9338,
+          "currentAmountDollars": 902
+        }
+      ],
+      "dailyPayAvailableBalance": 73.77,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 6,
+      "averageAdvanceAmount": 136.46,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 14,
+      "currentLocationInMilesAway": 23
+    },
+    {
+      "employee": {
+        "uuid": "94st0gsmimu",
+        "fullName": "Morgan Evans",
+        "phoneNumber": "+1-555-289392",
+        "role": "Receptionist"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 3135,
+          "currentAmountDollars": 7181
+        },
+        {
+          "goalName": "Career Advancement",
+          "targetAmountDollars": 7894,
+          "currentAmountDollars": 4379
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 6728,
+          "currentAmountDollars": 3499
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 5592,
+          "currentAmountDollars": 6777
+        }
+      ],
+      "dailyPayAvailableBalance": 167.54,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 4,
+      "averageAdvanceAmount": 127.67,
+      "opportunityAcceptanceRatio": 0.32,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 25
+    },
+    {
+      "employee": {
+        "uuid": "aaeifpx6ls4",
+        "fullName": "Jane Brown",
+        "phoneNumber": "+1-555-374208",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 5127,
+          "currentAmountDollars": 675
+        },
+        {
+          "goalName": "Vacation",
+          "targetAmountDollars": 8228,
+          "currentAmountDollars": 69
+        }
+      ],
+      "dailyPayAvailableBalance": 110.58,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 0,
+      "averageAdvanceAmount": 117.3,
+      "opportunityAcceptanceRatio": 0.35,
+      "hoursWorkedWithinPastWeek": 13,
+      "currentLocationInMilesAway": 27
+    },
+    {
+      "employee": {
+        "uuid": "aftd3dyh5kr",
+        "fullName": "Jordan Smith",
+        "phoneNumber": "+1-555-379208",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Retirement",
+          "targetAmountDollars": 8782,
+          "currentAmountDollars": 4670
+        },
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 3546,
+          "currentAmountDollars": 9404
+        }
+      ],
+      "dailyPayAvailableBalance": 95.72,
+      "advancesWithinPast30Days": 2,
+      "daysSinceLastAdvance": 19,
+      "averageAdvanceAmount": 135.31,
+      "opportunityAcceptanceRatio": 0.38,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 23
+    },
+    {
+      "employee": {
+        "uuid": "0bi8pofaesdu",
+        "fullName": "Taylor Taylor",
+        "phoneNumber": "+1-555-809401",
+        "role": "Cashier"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 4000,
+          "currentAmountDollars": 3733
+        }
+      ],
+      "dailyPayAvailableBalance": 138.89,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 26,
+      "averageAdvanceAmount": 164.44,
+      "opportunityAcceptanceRatio": 0.39,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 2
+    },
+    {
+      "employee": {
+        "uuid": "3osnubs6hv8",
+        "fullName": "Alex Johnson",
+        "phoneNumber": "+1-555-415172",
+        "role": "Warehouse Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Charity Donation",
+          "targetAmountDollars": 3482,
+          "currentAmountDollars": 1879
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 3155,
+          "currentAmountDollars": 6693
+        },
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 1272,
+          "currentAmountDollars": 239
+        }
+      ],
+      "dailyPayAvailableBalance": 57.51,
+      "advancesWithinPast30Days": 1,
+      "daysSinceLastAdvance": 24,
+      "averageAdvanceAmount": 163.58,
+      "opportunityAcceptanceRatio": 0.3,
+      "hoursWorkedWithinPastWeek": 15,
+      "currentLocationInMilesAway": 7
+    },
+    {
+      "employee": {
+        "uuid": "egqhy3kw0kp",
+        "fullName": "Chris Lee",
+        "phoneNumber": "+1-555-742668",
+        "role": "Cleaner"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Debt Repayment",
+          "targetAmountDollars": 5939,
+          "currentAmountDollars": 4122
+        }
+      ],
+      "dailyPayAvailableBalance": 197.44,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 28,
+      "averageAdvanceAmount": 125.61,
+      "opportunityAcceptanceRatio": 0.49,
+      "hoursWorkedWithinPastWeek": 12,
+      "currentLocationInMilesAway": 2
+    },
+    {
+      "employee": {
+        "uuid": "fbeouaimfi",
+        "fullName": "Skyler Taylor",
+        "phoneNumber": "+1-555-882041",
+        "role": "Food Service Worker"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Wedding Fund",
+          "targetAmountDollars": 8085,
+          "currentAmountDollars": 3301
+        },
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 8864,
+          "currentAmountDollars": 1441
+        },
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 1767,
+          "currentAmountDollars": 2551
+        },
+        {
+          "goalName": "Pet Care",
+          "targetAmountDollars": 9607,
+          "currentAmountDollars": 122
+        }
+      ],
+      "dailyPayAvailableBalance": 164.86,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 21,
+      "averageAdvanceAmount": 138.45,
+      "opportunityAcceptanceRatio": 0.33,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 1
+    },
+    {
+      "employee": {
+        "uuid": "c0gehp5267s",
+        "fullName": "John Evans",
+        "phoneNumber": "+1-555-778524",
+        "role": "Delivery Driver"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "New Car",
+          "targetAmountDollars": 5552,
+          "currentAmountDollars": 1951
+        },
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 1525,
+          "currentAmountDollars": 4900
+        },
+        {
+          "goalName": "Education",
+          "targetAmountDollars": 9416,
+          "currentAmountDollars": 483
+        }
+      ],
+      "dailyPayAvailableBalance": 113.11,
+      "advancesWithinPast30Days": 4,
+      "daysSinceLastAdvance": 13,
+      "averageAdvanceAmount": 126.18,
+      "opportunityAcceptanceRatio": 0.49,
+      "hoursWorkedWithinPastWeek": 10,
+      "currentLocationInMilesAway": 14
+    },
+    {
+      "employee": {
+        "uuid": "jnhqr4c76hp",
+        "fullName": "Jane Taylor",
+        "phoneNumber": "+1-555-366647",
+        "role": "Retail Associate"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Relocation",
+          "targetAmountDollars": 9467,
+          "currentAmountDollars": 1009
+        },
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 1554,
+          "currentAmountDollars": 2005
+        }
+      ],
+      "dailyPayAvailableBalance": 52.36,
+      "advancesWithinPast30Days": 0,
+      "daysSinceLastAdvance": 22,
+      "averageAdvanceAmount": 128.59,
+      "opportunityAcceptanceRatio": 0.31,
+      "hoursWorkedWithinPastWeek": 16,
+      "currentLocationInMilesAway": 19
+    },
+    {
+      "employee": {
+        "uuid": "ov1m9a4lwdb",
+        "fullName": "John Johnson",
+        "phoneNumber": "+1-555-317140",
+        "role": "Customer Service Representative"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Family Support",
+          "targetAmountDollars": 8245,
+          "currentAmountDollars": 7923
+        }
+      ],
+      "dailyPayAvailableBalance": 106.95,
+      "advancesWithinPast30Days": 5,
+      "daysSinceLastAdvance": 0,
+      "averageAdvanceAmount": 121.82,
+      "opportunityAcceptanceRatio": 0.4,
+      "hoursWorkedWithinPastWeek": 19,
+      "currentLocationInMilesAway": 14
+    },
+    {
+      "employee": {
+        "uuid": "yptgzfrpla",
+        "fullName": "Alex Miller",
+        "phoneNumber": "+1-555-218587",
+        "role": "Housekeeper"
+      },
+      "savingsGoals": [
+        {
+          "goalName": "Business Startup",
+          "targetAmountDollars": 8553,
+          "currentAmountDollars": 1576
+        },
+        {
+          "goalName": "Travel",
+          "targetAmountDollars": 5433,
+          "currentAmountDollars": 181
+        },
+        {
+          "goalName": "Investment",
+          "targetAmountDollars": 1663,
+          "currentAmountDollars": 137
+        },
+        {
+          "goalName": "Home Down Payment",
+          "targetAmountDollars": 9717,
+          "currentAmountDollars": 3494
+        }
+      ],
+      "dailyPayAvailableBalance": 139.74,
+      "advancesWithinPast30Days": 3,
+      "daysSinceLastAdvance": 17,
+      "averageAdvanceAmount": 179.28,
+      "opportunityAcceptanceRatio": 0.34,
+      "hoursWorkedWithinPastWeek": 18,
+      "currentLocationInMilesAway": 18
+    }
+  ]
+}
