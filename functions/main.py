@@ -12,11 +12,13 @@ import vertexai
 from vertexai.preview.generative_models import GenerativeModel, GenerationConfig
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail, Email, To, Content
-from datetime import datetime
 
 sendgrid_email = StringParam("SENDGRID_EMAIL")
 sendgrid_name = StringParam("SENDGRID_EMAIL_NAME")
 sendgrid_api_key = StringParam("SENDGRID_API_KEY")
+
+receiver_mail_start = StringParam("RECEIVER_MAIL_START")
+receiver_domain = StringParam("RECEIVER_DOMAIN")
 
 
 class EmailSender:
@@ -27,7 +29,7 @@ class EmailSender:
             raise ValueError("SendGrid API key is required")
         self.sender = sendgrid_email.value  # Replace with your verified sender
 
-    def get_shift_email_template(self, shift_data, shift_id, user_id):
+    def get_shift_email_template(self, shift_data, shift_id, user_id, employee):
         """
         Generate HTML email template for shift notification using DailyPay design
 
@@ -68,7 +70,7 @@ class EmailSender:
                         <tr>
                             <td style="padding: 40px;">
                                 <p style="margin: 0 0 20px; font-size: 16px; line-height: 1.5; color: #333;">
-                                    Hello {shift_data.get('firstName', '')},
+                                    Hello {employee.get('fullName', '').split(' ')[0]},
                                 </p>
                                 <p style="margin: 0 0 24px; font-size: 16px; line-height: 1.5; color: #333;">
                                     There's an opportunity to earn some extra income today - see below for details.
@@ -210,12 +212,12 @@ def on_shift_createdv2(event: firestore_fn.Event[DocumentSnapshot | None]):
             email_sender = EmailSender()
             user_id = user_data["employee"]["uuid"]
             html_content = email_sender.get_shift_email_template(
-                shift_data, shift_id, user_id
+                shift_data, shift_id, user_id, user_data["employee"]
             )
 
             subject = "New Shift Available - Perfect Match!"
             email_sent = email_sender.send_email(
-                f"baggy.simandoff+{user_id}@gmail.com",
+                f"{receiver_mail_start}+{user_id}@{receiver_domain}",
                 subject,
                 html_content,
             )
